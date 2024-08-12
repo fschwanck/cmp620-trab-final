@@ -1,0 +1,11 @@
+cell_type: lstm
+classes: 10
+config: null
+h_dim: 64
+in_dim: 3
+intermediate_channels: 32
+layers:
+- 1
+- 1
+- 3
+regulated_block: !!python/name:regnet.rnn_regulated_block ''
