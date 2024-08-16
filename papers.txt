@@ -1,4 +1,0 @@
-https://paperswithcode.com/paper/regnet-self-regulated-network-for-image
-https://paperswithcode.com/paper/deep-residual-learning-for-image-recognition
-https://paperswithcode.com/paper/milking-cowmask-for-semi-supervised-image
-https://paperswithcode.com/paper/tresnet-high-performance-gpu-dedicated

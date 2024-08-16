@@ -4,19 +4,15 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-numpy = "<2.0.0"
 scipy = "*"
 pillow = "*"
-pandas = "*"
 ipykernel = "*"
 matplotlib = "*"
 torch = "*"
 torchvision = "*"
-pytorch-lightning = "<2.0.0"
-ray = "*"
-"ray[tune]" = "*"
-ipywidgets = "*"
 torchmetrics = "*"
+requests = "*"
+pandas = "*"
 
 [dev-packages]
 
