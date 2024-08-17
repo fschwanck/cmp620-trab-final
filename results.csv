@@ -1,5 +1,0 @@
-name,params,gflops,year,size,model,weights,accuracy,inference
-ResNet50,25557032,4.09,2015,97800000,<function resnet50 at 0x781ea4b3dc60>,ResNet50_Weights.IMAGENET1K_V2,0.80836,0.01057371353149414
-RegNet_Y_16GF,83590140,15.91,2020,319500000,<function regnet_y_16gf at 0x781ea4b3c040>,RegNet_Y_16GF_Weights.IMAGENET1K_V2,0.82882,0.015591232838630677
-MobileNet_V3_Large_Weights,5483032,0.22,2019,21100000,<function mobilenet_v3_large at 0x781ea4b12680>,MobileNet_V3_Large_Weights.IMAGENET1K_V2,0.75266,0.010241147770881653
-ConvNeXt_Tiny_Weights,28589128,4.46,2022,109100000,<function convnext_tiny at 0x781ea53ca830>,ConvNeXt_Tiny_Weights.IMAGENET1K_V1,0.82512,0.009152452888488769
